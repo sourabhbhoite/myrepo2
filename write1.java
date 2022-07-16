@@ -1,0 +1,1 @@
+write data 1
